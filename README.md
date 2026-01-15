@@ -4,7 +4,7 @@
 <strong>Location:</strong> Kazakhstan<br>
 <strong>Status:</strong> Incoming 3rd-year student at JIHC College<br>
 <strong>Languages:</strong> Kazakh (native), Russian, English (B2 CEFR)<br>
-<strong>IQ:</strong> ~123<br>
+<strong>IQ:</strong> ~145<br>
 <strong>Career Goal:</strong> Remote Full-Stack Developer with DevOps & ML focus<br>
 <br>
 💻 <strong>Technical Skills</strong><br>
