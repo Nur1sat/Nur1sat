@@ -20,20 +20,6 @@
 • Telegram Bot (file ID broadcasting + chat ID files)<br>
 • Full backend stack in Docker (Celery, Redis, FastAPI)<br>
 • Hard 8h builds (backend-first, real logic)<br>
-<br>
-🎯 <strong>Goals (Aug 2025)</strong><br>
-• Master Vue + TS + Tailwind + SCSS in 20 days<br>
-• Build full-stack apps & portfolio<br>
-• Reach 20+ real GitHub projects<br>
-• Improve English (B2 → C1)<br>
-• Start remote job during college<br>
-<br>
-🧠 <strong>What Sets Me Apart</strong><br>
-🧩 Fast learner when focused<br>
-🔍 Deep code logic over copy-paste<br>
-🚫 No placeholders — real, testable output<br>
-🧠 Strong at deployment, Linux, backend<br>
-⚙️ Builder mindset, systems thinker<br>
 
 
 ## 🌐 Socials:
