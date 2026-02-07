@@ -9,10 +9,8 @@
 <br>
 💻 <strong>Technical Skills</strong><br>
 ✅ <strong>Backend:</strong> Python (Mid), FastAPI, SQLAlchemy, Alembic, PostgreSQL, Redis, Celery, Pydantic<br>
-🤖 <strong>Telegram Bots:</strong> Aiogram 3, file/media sending, chat ID parsing from .txt, Docker/systemd<br>
-🐧 <strong>DevOps:</strong> Ubuntu/Linux, Docker Compose, virtualenv, systemd, CLI mastery<br>
-🎨 <strong>Frontend (Learning):</strong> HTML, CSS, Grid/Flexbox, JS, animations<br>
-→ <strong>Planned:</strong> Vue, TypeScript, SCSS, TailwindCSS, Pinia<br>
+🐧 <strong>DevOps:</strong> Ubuntu/Linux, Docker Compose, virtualenv, systemd, CLI mastery, CI CD, GitHub Actions<br>
+🎨 <strong>Frontend:</strong> HTML, CSS, Grid/Flexbox, JS, animations<br>
 <br>
 🛠️ <strong>Projects</strong><br>
 • Kanban Board system (FastAPI + SQLAlchemy)<br>
