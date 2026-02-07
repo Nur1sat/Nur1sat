@@ -15,7 +15,7 @@
 🛠️ <strong>Projects</strong><br>
 • Kanban Board system (FastAPI + SQLAlchemy)<br>
 • JWT Auth API (FastAPI + PostgreSQL)<br>
-• Telegram Bot (file ID broadcasting + chat ID files)<br>
+• Telegram Bot (Aiogram)<br>
 • Full backend stack in Docker (Celery, Redis, FastAPI)<br>
 • Hard 8h builds (backend-first, real logic)<br>
 
