@@ -1,17 +1,11 @@
 # 💫 About Me:
-👤 <strong>Zhaxybaev Nursat</strong> — Full-Stack Developer (Backend-Focused) | Linux Expert | Future Tech Leader<br>
-<strong>Age:</strong> 17<br>
+👤 <strong>Zhaxybaev Nursat</strong> — Full-Stack Developer (Backend-Focused) | Linux Expert <br>
+<strong>Age:</strong> 18<br>
 <strong>Location:</strong> Kazakhstan<br>
-<strong>Status:</strong> Incoming 3rd-year student at JIHC College<br>
+<strong>Status:</strong> SDU student<br>
 <strong>Languages:</strong> Kazakh (native), Russian, English (IELTS 6.5(B2))<br>
 <strong>IQ:</strong> ~145<br>
-<strong>Career Goal:</strong> Remote Full-Stack Developer with DevOps & ML focus<br>
-<br>
-💻 <strong>Technical Skills</strong><br>
-✅ <strong>Backend:</strong> Python (Mid), FastAPI, SQLAlchemy, Alembic, PostgreSQL, Redis, Celery, Pydantic<br>
-🐧 <strong>DevOps:</strong> Ubuntu/Linux, Docker Compose, virtualenv, systemd, CLI mastery, CI CD, GitHub Actions<br>
-🎨 <strong>Frontend:</strong> HTML, CSS, Grid/Flexbox, JS, animations<br>
-<br>
+
 🛠️ <strong>Projects</strong><br>
 • Kanban Board system (FastAPI + SQLAlchemy)<br>
 • JWT Auth API (FastAPI + PostgreSQL)<br>
