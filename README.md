@@ -4,7 +4,6 @@
 <strong>Location:</strong> Kazakhstan<br>
 <strong>Status:</strong> SDU student<br>
 <strong>Languages:</strong> Kazakh (native), Russian, English (IELTS 6.5(B2))<br>
-<strong>IQ:</strong> ~145<br>
 
 🛠️ <strong>Projects</strong><br>
 • Kanban Board system (FastAPI + SQLAlchemy)<br>
